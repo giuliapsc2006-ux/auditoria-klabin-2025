@@ -2,8 +2,8 @@
 **Universidade de Brasília — UnB**  
 **Disciplina:** Auditoria 1 — CCA0024 — Turma 02 — 2026.2  
 **Professor:** Lucas Oliveira Gomes Ferreira  
-**Aluno:** [Giulia Prates Souto Cardoso]  
-**Matrícula:** [241021462]  
+**Aluno:** Giulia Prates Souto Cardoso  
+**Matrícula:** 241021462 
 ## 1. Objetivo do Repositório
 Este repositório contém os papéis de trabalho, as memórias de cálculo e a base de dados simulada referentes ao Dossiê de Auditoria da companhia Klabin S.A. (KLBN11), elaborados como requisito de avaliação da disciplina Auditoria 1. O trabalho contempla o planejamento e a execução simulada com base nas demonstrações contábeis de 2025.
 ## 2. Organização dos Arquivos
