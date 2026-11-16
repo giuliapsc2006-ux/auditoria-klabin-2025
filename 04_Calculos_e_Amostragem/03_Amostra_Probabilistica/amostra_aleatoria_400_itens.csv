@@ -1,0 +1,401 @@
+﻿Num_Plaqueta,Categoria,Data_Aquisicao,Valor_Aquisicao_BRL,Unidade_Negocio,Depreciacao_Acumulada_BRL,Valor_Liquido_Contabil_BRL,exc_negativo,exc_data_futura,exc_plaqueta_duplicada,exc_equacao,metodo_selecao,semente,excecao_regra
+KLB-0000901,Máquinas e Equipamentos,2018-10-08,729937.43,Unidade Puma,263896.61,466040.82000000007,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0001305,Edificações e Benfeitorias,2023-02-01,192261.65,Florestal PR,22402.89,169858.76,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0002071,Veículos,2018-07-12,214284.69,Unidade Monte Alegre,214284.69,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0003497,Equipamentos Florestais,2017-08-31,1374.03,Sede SP,1145.12,228.91000000000008,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0006416,Edificações e Benfeitorias,2020-08-16,79104.39,Unidade Puma,17005.55,62098.84,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0006426,Máquinas e Equipamentos,2020-07-11,13997.54,Unidade Puma,3830.4,10167.14,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0011810,Máquinas e Equipamentos,2018-07-12,47800.33,Unidade Monte Alegre,17857.23,29943.1,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0012686,Máquinas e Equipamentos,2023-05-28,96500.76,Florestal PR,12523.3,83977.45999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0013198,Máquinas e Equipamentos,2023-06-06,130386.79,Unidade Puma,16760.19,113626.6,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0015144,Veículos,2021-03-24,491245.33,Unidade Monte Alegre,468851.81,22393.52000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0015230,Edificações e Benfeitorias,2021-07-03,417610.29,Unidade Correia Pinto,75095.53,342514.76,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0016229,Máquinas e Equipamentos,2021-12-26,5541.74,Unidade Monte Alegre,1112.14,4429.599999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0016354,Florestas Plantadas,2017-03-09,99678.14,Florestal PR,99678.14,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0016984,Veículos,2023-07-09,34117.49,Sede SP,16925.64,17191.85,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0017314,Edificações e Benfeitorias,2022-11-07,16289.32,Sede SP,2051.5,14237.82,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0018759,Máquinas e Equipamentos,2016-05-05,662322.61,Unidade Puma,319782.59,342540.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0018818,Máquinas e Equipamentos,2020-12-23,18153.94,Florestal PR,4557.74,13596.2,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0019478,Edificações e Benfeitorias,2023-11-03,253150.61,Unidade Correia Pinto,21873.88,231276.73,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0021542,Edificações e Benfeitorias,2016-07-28,115964.09,Unidade Correia Pinto,43725.05,72239.04,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0022131,Edificações e Benfeitorias,2017-07-31,108875.23,Unidade Puma,36664.35,72210.88,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0023962,Máquinas e Equipamentos,2021-03-08,39260.6,Florestal PR,9453.72,29806.88,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0029352,Equipamentos Florestais,2024-11-09,17992.71,Florestal PR,2054.2,15938.509999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0029516,Máquinas e Equipamentos,2022-02-18,33489.65,Sede SP,6473.29,27016.36,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0029848,Edificações e Benfeitorias,2017-03-25,65139.44,Unidade Monte Alegre,22849.19,42290.25,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0033136,Máquinas e Equipamentos,2023-05-23,148962.97,Sede SP,19433.5,129529.47,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0033844,Máquinas e Equipamentos,2019-08-19,791608.91,Sede SP,252057.81,539551.1000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0034735,Edificações e Benfeitorias,2022-09-26,138725.12,Unidade Correia Pinto,18109.28,120615.84,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0036943,Florestas Plantadas,2019-10-18,39182.45,Unidade Monte Alegre,34032.14,5150.309999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0038739,Edificações e Benfeitorias,2015-03-10,162930.91,Unidade Correia Pinto,70462.88,92468.03,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0038758,Equipamentos Florestais,2025-12-26,307851.79,Unidade Puma,421.43,307430.36,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0039151,Edificações e Benfeitorias,2024-12-20,107743.33,Unidade Puma,4436.58,103306.75,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0039811,Máquinas e Equipamentos,2016-12-15,49803.88,Unidade Monte Alegre,22519.13,27284.75,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0039881,Edificações e Benfeitorias,2023-01-03,331780.74,Florestal PR,39713.77,292066.97,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0041939,Máquinas e Equipamentos,2021-05-18,49597.92,Sede SP,11460.82,38137.1,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0043046,Máquinas e Equipamentos,2023-10-25,14803.33,Unidade Puma,1617.12,13186.21,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0045765,Veículos,2021-11-02,17976.64,Unidade Monte Alegre,14962.08,3014.5599999999995,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0046420,Máquinas e Equipamentos,2023-09-19,19949.86,Florestal PR,2277.64,17672.22,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0046695,Máquinas e Equipamentos,2025-01-19,10471.2,Unidade Monte Alegre,495.97,9975.23,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0049192,Máquinas e Equipamentos,2024-08-11,5326.21,Unidade Correia Pinto,369.66,4956.55,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0050477,Edificações e Benfeitorias,2020-08-11,93668.88,Unidade Monte Alegre,20187.86,73481.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0050828,Máquinas e Equipamentos,2017-09-07,106388.62,Unidade Correia Pinto,44230.29,62158.33,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0051027,Equipamentos Florestais,2020-05-18,272651.19,Unidade Puma,153251.99,119399.2,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0052580,Veículos,2021-02-11,199765.68,Unidade Puma,195144.13,4621.549999999988,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0052825,Máquinas e Equipamentos,2025-12-11,9585.02,Unidade Puma,26.24,9558.78,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0056803,Equipamentos Florestais,2023-01-05,14607.47,Unidade Monte Alegre,4363.24,10244.23,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0058904,Máquinas e Equipamentos,2022-11-16,47104.03,Unidade Monte Alegre,7357.39,39746.64,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0058961,Máquinas e Equipamentos,2025-05-22,6893.83,Unidade Correia Pinto,210.45,6683.38,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0060224,Máquinas e Equipamentos,2025-11-24,1937.51,Florestal PR,9.81,1927.7,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0063814,Máquinas e Equipamentos,2022-04-21,5326.51,Unidade Monte Alegre,984.37,4342.14,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0064147,Máquinas e Equipamentos,2023-10-16,8658.86,Unidade Puma,956.56,7702.300000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0064186,Veículos,2023-02-18,16240.07,Unidade Correia Pinto,9310.53,6929.539999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0066694,Móveis e Utensílios,2018-01-22,18175.96,Unidade Monte Alegre,14431.29,3744.6699999999983,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0066739,Equipamentos Florestais,2015-02-03,267256.52,Unidade Puma,267256.52,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0067351,Equipamentos Florestais,2020-01-13,15717.18,Unidade Correia Pinto,9376.52,6340.66,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0068427,Edificações e Benfeitorias,2016-10-31,254749.58,Unidade Correia Pinto,93404.69,161344.88999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0072557,Florestas Plantadas,2021-01-04,496832.11,Unidade Puma,346973.13,149858.97999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0073009,Móveis e Utensílios,2025-06-26,1123.63,Sede SP,57.84,1065.7900000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0073069,Equipamentos Florestais,2019-05-25,7085.24,Unidade Correia Pinto,4678.88,2406.36,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0077467,Florestas Plantadas,2017-02-24,21330.6,Sede SP,21330.6,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0078030,Máquinas e Equipamentos,2023-01-29,2165.74,Unidade Monte Alegre,316.34,1849.4,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0078562,Equipamentos Florestais,2025-12-24,32906.89,Unidade Correia Pinto,63.07,32843.82,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0080096,Equipamentos Florestais,2019-03-17,90775.98,Unidade Puma,61660.56,29115.42,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0080730,Edificações e Benfeitorias,2017-01-08,193308.87,Sede SP,69416.54,123892.33,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0082550,Máquinas e Equipamentos,2024-08-14,560360.27,Unidade Puma,38661.41,521698.86,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0082772,Florestas Plantadas,2020-10-19,269889.79,Florestal PR,196448.73,73441.05999999997,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0083903,Máquinas e Equipamentos,2023-02-27,31613.69,Unidade Puma,4492.13,27121.56,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0086192,Veículos,2022-09-01,92266.55,Unidade Puma,61485.77,30780.78000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0087282,Edificações e Benfeitorias,2019-04-25,147699.35,Florestal PR,39499.72,108199.63,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0087994,Edificações e Benfeitorias,2024-12-07,191424.05,Unidade Puma,8154.85,183269.2,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0088608,Edificações e Benfeitorias,2020-05-23,8873.45,Unidade Puma,1990.18,6883.27,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0088956,Máquinas e Equipamentos,2016-12-17,106325.96,Unidade Monte Alegre,48046.82,58279.14000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0089395,Florestas Plantadas,2018-01-23,127497.98,Unidade Monte Alegre,127497.98,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0090118,Máquinas e Equipamentos,2019-08-26,25678.1,Unidade Puma,8151.61,17526.489999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0091814,Máquinas e Equipamentos,2017-05-01,50740.65,Florestal PR,21991.09,28749.56,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0094087,Florestas Plantadas,2023-02-23,206468.97,Unidade Monte Alegre,82463.23,124005.74,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0094395,Florestas Plantadas,2015-05-01,10246.39,Unidade Puma,10246.39,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0094495,Edificações e Benfeitorias,2020-07-29,85131.37,Sede SP,18469.02,66662.34999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0095053,Máquinas e Equipamentos,2021-12-31,41886.04,Sede SP,8377.21,33508.83,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0097631,Máquinas e Equipamentos,2022-03-19,99581.62,Unidade Correia Pinto,18853.03,80728.59,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0103278,Equipamentos Florestais,2015-12-25,241928.21,Sede SP,241928.21,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0103914,Máquinas e Equipamentos,2018-06-08,332913.75,Sede SP,125919.33,206994.42,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0104636,Máquinas e Equipamentos,2016-06-17,9073.45,Unidade Correia Pinto,4327.43,4746.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0107865,Equipamentos Florestais,2019-06-15,80090.57,Unidade Puma,52428.9,27661.67000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0108237,Equipamentos Florestais,2022-05-10,30197.07,Florestal PR,11004.05,19193.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0112565,Móveis e Utensílios,2017-07-04,110876.18,Unidade Correia Pinto,94165.07,16711.109999999986,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0113084,Florestas Plantadas,2022-11-16,10985.09,Florestal PR,4804.27,6180.82,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0113875,Máquinas e Equipamentos,2023-08-24,176742.77,Unidade Monte Alegre,20807.5,155935.27,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0114802,Equipamentos Florestais,2023-12-25,45640.42,Unidade Puma,9209.31,36431.11,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0115811,Veículos,2015-09-28,22139.33,Unidade Monte Alegre,22139.33,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0116583,Florestas Plantadas,2015-06-07,12902.39,Unidade Correia Pinto,12902.39,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0119351,Florestas Plantadas,2023-06-20,349744.73,Unidade Correia Pinto,124002.58,225742.15,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0120295,Máquinas e Equipamentos,2020-03-24,649956.21,Sede SP,187557.52,462398.69,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0121091,Máquinas e Equipamentos,2025-06-18,86211.63,Unidade Correia Pinto,2313.14,83898.49,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0121160,Equipamentos Florestais,2021-06-14,16878.63,Florestal PR,7675.68,9202.95,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0122332,Máquinas e Equipamentos,2022-02-23,18039.2,Sede SP,3474.49,14564.71,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0127461,Equipamentos Florestais,2016-01-31,7894.88,Unidade Monte Alegre,7828.95,65.93000000000029,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0127748,Equipamentos Florestais,2025-12-04,758992.5,Unidade Correia Pinto,5610.62,753381.88,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0128038,Máquinas e Equipamentos,2015-03-15,79593.94,Sede SP,42973.1,36620.84,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0129418,Máquinas e Equipamentos,2025-01-13,118424.46,Unidade Correia Pinto,5706.42,112718.04,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0130696,Máquinas e Equipamentos,2020-08-22,14178.37,Unidade Puma,3798.37,10380.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0133251,Máquinas e Equipamentos,2016-03-16,108090.88,Unidade Puma,52928.28,55162.600000000006,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0133575,Florestas Plantadas,2020-12-07,820764.9,Unidade Correia Pinto,582007.14,238757.76,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0135102,Máquinas e Equipamentos,2020-02-21,7509.54,Sede SP,2199.92,5309.62,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0135300,Máquinas e Equipamentos,2016-04-05,70738.7,Unidade Puma,34444.57,36294.13,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0137736,Edificações e Benfeitorias,2025-08-27,58015.79,Unidade Puma,800.55,57215.24,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0138530,Florestas Plantadas,2016-12-17,24484.89,Unidade Puma,24484.89,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0138853,Florestas Plantadas,2016-11-23,47769.96,Unidade Puma,47769.96,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0139601,Edificações e Benfeitorias,2024-09-28,18181.84,Unidade Monte Alegre,913.95,17267.89,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0139952,Florestas Plantadas,2024-08-22,46918.69,Unidade Puma,8920.01,37998.68,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0140744,Móveis e Utensílios,2019-06-18,161214.67,Florestal PR,105401.95,55812.720000000016,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0141148,Máquinas e Equipamentos,2024-12-01,545946.89,Sede SP,29520.74,516426.15,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0142144,Máquinas e Equipamentos,2022-10-02,286017.04,Unidade Monte Alegre,46436.17,239580.87,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0144079,Máquinas e Equipamentos,2023-02-10,57791.94,Florestal PR,8346.41,49445.53,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0144400,Equipamentos Florestais,2024-04-15,44544.69,Unidade Monte Alegre,7622.29,36922.4,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0144656,Edificações e Benfeitorias,2023-06-06,60190.25,Unidade Puma,6189.58,54000.67,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0148168,Máquinas e Equipamentos,2021-07-31,2234.24,Sede SP,493.64,1740.6,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0148789,Máquinas e Equipamentos,2024-01-23,24135.21,Florestal PR,2339.18,21796.03,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0149044,Florestas Plantadas,2025-08-14,5128.05,Unidade Correia Pinto,273.22,4854.83,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0149051,Móveis e Utensílios,2019-03-09,7054.79,Florestal PR,4807.49,2247.3,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0149899,Móveis e Utensílios,2020-08-30,60602.22,Sede SP,32337.78,28264.44,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0150355,Florestas Plantadas,2018-06-08,13777.76,Unidade Puma,13777.76,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0151626,Florestas Plantadas,2018-01-21,340114.29,Sede SP,340114.29,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0151710,Florestas Plantadas,2023-02-22,387691.15,Unidade Monte Alegre,154991.54,232699.61,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0156791,Máquinas e Equipamentos,2019-09-01,260418.2,Sede SP,82456.85,177961.35,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0156815,Máquinas e Equipamentos,2023-06-18,221166.75,Florestal PR,28065.92,193100.83,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0157042,Florestas Plantadas,2019-04-30,134950.01,Unidade Correia Pinto,126056.8,8893.210000000006,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0159295,Edificações e Benfeitorias,2019-07-08,7177.55,Unidade Monte Alegre,1861.35,5316.200000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0159364,Florestas Plantadas,2022-07-18,44950.31,Unidade Monte Alegre,21743.52,23206.79,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0159573,Máquinas e Equipamentos,2017-06-14,68051.77,Sede SP,29083.86,38967.91,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0160616,Equipamentos Florestais,2019-05-25,58373.42,Unidade Monte Alegre,38548.03,19825.39,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0160756,Edificações e Benfeitorias,2021-02-22,44210.36,Unidade Correia Pinto,8584.25,35626.11,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0163176,Veículos,2021-10-04,40787.93,Unidade Correia Pinto,34595.76,6192.169999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0163187,Florestas Plantadas,2016-10-17,32983.34,Unidade Monte Alegre,32983.34,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0166904,Máquinas e Equipamentos,2015-03-28,47665.24,Sede SP,25649.84,22015.4,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0167328,Máquinas e Equipamentos,2022-03-13,1733.49,Unidade Puma,329.61,1403.88,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0167553,Equipamentos Florestais,2017-07-06,211100.48,Unidade Puma,179168.1,31932.380000000005,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0167928,Máquinas e Equipamentos,2015-08-29,186195.24,Unidade Puma,96270.97,89924.26999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0169022,Máquinas e Equipamentos,2025-12-02,20641.5,Unidade Puma,81.94,20559.56,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0169288,Máquinas e Equipamentos,2025-08-03,1411336.39,Florestal PR,28980.21,1382356.18,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0171856,Veículos,2023-09-15,20392.62,Unidade Puma,9357.43,11035.19,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0172441,Edificações e Benfeitorias,2024-12-14,31390.45,Unidade Correia Pinto,1313.2,30077.25,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0176349,Móveis e Utensílios,2020-03-31,167861.89,Sede SP,96557.93,71303.96000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0176490,Florestas Plantadas,2022-06-11,17204.11,Unidade Puma,8566.02,8638.09,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0177325,Máquinas e Equipamentos,2023-02-26,275135.58,Florestal PR,39132.9,236002.68,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0177481,Edificações e Benfeitorias,2015-04-14,27979.73,Unidade Monte Alegre,11993.17,15986.56,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0178116,Florestas Plantadas,2017-07-24,54739.4,Unidade Puma,54739.4,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0179026,Florestas Plantadas,2022-11-07,29075.26,Sede SP,12816.2,16259.059999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0179274,Veículos,2023-10-21,5766.59,Florestal PR,2532.41,3234.1800000000003,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0179756,Máquinas e Equipamentos,2019-01-01,237472.54,Unidade Puma,83091.01,154381.53000000003,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0179979,Máquinas e Equipamentos,2017-10-23,67563.74,Florestal PR,27663.68,39900.060000000005,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0180430,Máquinas e Equipamentos,2024-09-25,112656.52,Florestal PR,7124.89,105531.63,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0181706,Máquinas e Equipamentos,2022-10-11,734351.66,Unidade Correia Pinto,118320.59,616031.0700000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0182468,Edificações e Benfeitorias,2020-08-17,44226.94,Unidade Correia Pinto,9502.89,34724.05,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0182599,Florestas Plantadas,2016-09-12,174195.51,Florestal PR,174195.51,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0182621,Móveis e Utensílios,2016-08-28,21571.93,Unidade Monte Alegre,20151.52,1420.41,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0183806,Máquinas e Equipamentos,2018-10-09,15351.47,Unidade Monte Alegre,5547.96,9803.509999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0185109,Edificações e Benfeitorias,2015-10-14,194103.43,Unidade Correia Pinto,79310.05,114793.38,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0185966,Florestas Plantadas,2025-09-10,60487.65,Florestal PR,2596.7,57890.95,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0186089,Máquinas e Equipamentos,2024-12-05,93052.62,Sede SP,4980.64,88071.98,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0189912,Máquinas e Equipamentos,2025-06-28,6315.34,Sede SP,160.8,6154.54,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0201179,Máquinas e Equipamentos,2024-04-05,233226.53,Unidade Correia Pinto,20273.63,212952.9,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0201345,Equipamentos Florestais,2019-12-15,52281.21,Sede SP,31604.9,20676.31,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0202753,Máquinas e Equipamentos,2022-07-18,114550.37,Florestal PR,19789.54,94760.83,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0204058,Florestas Plantadas,2016-09-13,153463.94,Unidade Puma,153463.94,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0204638,Equipamentos Florestais,2019-08-09,331355.01,Unidade Monte Alegre,211922.05,119432.96000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0205822,Florestas Plantadas,2024-04-03,152072.18,Florestal PR,37130.18,114942.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0208021,Florestas Plantadas,2020-10-23,4092.51,Unidade Correia Pinto,2972.6,1119.9100000000003,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0208183,Edificações e Benfeitorias,2020-09-15,20253.51,Unidade Puma,4287.48,15966.03,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0209593,Máquinas e Equipamentos,2022-01-24,10324.5,Unidade Correia Pinto,2030.98,8293.52,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0209977,Máquinas e Equipamentos,2020-02-10,3508.84,Unidade Puma,1033.2,2475.6400000000003,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0210599,Equipamentos Florestais,2024-12-11,47207.68,Unidade Puma,4976.03,42231.65,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0210984,Móveis e Utensílios,2016-09-20,16050.1,Unidade Puma,14892.21,1157.8900000000012,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0211441,Equipamentos Florestais,2025-06-17,30145.46,Unidade Puma,1625.92,28519.54,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0213782,Florestas Plantadas,2021-06-06,261435.05,Unidade Puma,167246.85,94188.19999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0215306,Móveis e Utensílios,2016-10-03,240999.58,Unidade Correia Pinto,222755.53,18244.04999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0216244,Florestas Plantadas,2017-06-20,59229.69,Unidade Puma,59229.69,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0217510,Florestas Plantadas,2015-09-01,229239.86,Unidade Monte Alegre,229239.86,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0219043,Edificações e Benfeitorias,2023-11-20,112227.25,Sede SP,9488.23,102739.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0221793,Equipamentos Florestais,2025-07-27,6565.62,Unidade Puma,282.22,6283.4,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0223697,Equipamentos Florestais,2017-05-30,73915.23,Unidade Monte Alegre,63483.11,10432.119999999995,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0224029,Florestas Plantadas,2022-04-15,9823.13,Sede SP,5105.61,4717.52,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0224991,Florestas Plantadas,2019-09-26,12282.75,Unidade Monte Alegre,10771.83,1510.92,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0225267,Máquinas e Equipamentos,2021-06-26,17864.83,Unidade Correia Pinto,4032.73,13832.100000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0227032,Edificações e Benfeitorias,2017-11-06,270968.83,Florestal PR,88342.14,182626.69,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0228241,Máquinas e Equipamentos,2025-09-05,9075.78,Sede SP,145.36,8930.42,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0229901,Máquinas e Equipamentos,2019-09-26,933251.76,Unidade Puma,292303.91,640947.8500000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0230937,Máquinas e Equipamentos,2018-03-11,150767.98,Florestal PR,58862.46,91905.52000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0231422,Máquinas e Equipamentos,2022-08-09,110733.93,Florestal PR,18796.72,91937.21,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0232748,Máquinas e Equipamentos,2016-01-21,54888.33,Unidade Monte Alegre,27290.13,27598.2,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0232881,Máquinas e Equipamentos,2023-04-03,20364.8,Unidade Correia Pinto,2796.15,17568.649999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0232912,Veículos,2015-01-29,21342.69,Sede SP,21342.69,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0233452,Máquinas e Equipamentos,2021-01-30,297645.05,Unidade Correia Pinto,73178.71,224466.34,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0234277,Edificações e Benfeitorias,2017-08-31,792984.82,Sede SP,264349.98,528634.84,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0234852,Máquinas e Equipamentos,2020-08-23,397500.75,Florestal PR,106435.52,291065.23,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0235602,Máquinas e Equipamentos,2021-12-20,538138.46,Sede SP,108438.03,429700.42999999993,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0236240,Edificações e Benfeitorias,2018-08-18,212732.65,Unidade Puma,62716.09,150016.56,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0236440,Equipamentos Florestais,2019-08-30,15612.27,Sede SP,9895.25,5717.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0237031,Máquinas e Equipamentos,2022-11-22,83540.54,Unidade Puma,12979.95,70560.59,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0237600,Máquinas e Equipamentos,2019-09-08,7182.64,Sede SP,2267.37,4915.27,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0237992,Máquinas e Equipamentos,2019-03-06,5865.56,Sede SP,2000.95,3864.6100000000006,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0238615,Máquinas e Equipamentos,2021-10-07,46833.91,Unidade Puma,9911.74,36922.170000000006,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0240540,Florestas Plantadas,2017-06-11,263528.26,Florestal PR,263528.26,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0243571,Máquinas e Equipamentos,2017-11-08,134526.4,Sede SP,54786.59,79739.81,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0245634,Equipamentos Florestais,2025-02-19,3958706.53,Sede SP,341407.96,3617298.57,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0246406,Máquinas e Equipamentos,2023-10-31,34229.32,Florestal PR,3711.1,30518.22,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0247273,Móveis e Utensílios,2021-01-05,32517.2,Unidade Puma,16211.86,16305.34,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0249333,Florestas Plantadas,2017-11-20,49270.39,Unidade Puma,49270.39,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0249843,Florestas Plantadas,2022-11-18,41292.95,Florestal PR,18027.58,23265.369999999995,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0254768,Máquinas e Equipamentos,2020-07-02,30261.28,Sede SP,8318.23,21943.05,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0257389,Máquinas e Equipamentos,2015-08-24,199181.5,Unidade Puma,103121.76,96059.74,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0257961,Máquinas e Equipamentos,2020-12-06,18355.02,Unidade Puma,4650.94,13704.080000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0259550,Florestas Plantadas,2017-11-09,17541.3,Unidade Puma,17541.3,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0260248,Máquinas e Equipamentos,2020-12-15,52419.6,Unidade Correia Pinto,13217.92,39201.68,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0262489,Máquinas e Equipamentos,2024-09-27,12329.07,Unidade Correia Pinto,776.37,11552.7,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0262722,Máquinas e Equipamentos,2018-12-22,46839.68,Unidade Correia Pinto,16453.2,30386.48,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0264185,Máquinas e Equipamentos,2019-09-02,656387.01,Florestal PR,207743.57,448643.44,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0265296,Máquinas e Equipamentos,2019-10-21,41790.34,Sede SP,12946.14,28844.2,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0269867,Máquinas e Equipamentos,2023-04-29,100940.78,Unidade Puma,13500.22,87440.56,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0272600,Máquinas e Equipamentos,2023-02-17,162296.34,Unidade Monte Alegre,23283.58,139012.76,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0272921,Edificações e Benfeitorias,2024-12-31,689081.65,Florestal PR,27544.4,661537.25,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0273117,Florestas Plantadas,2021-10-17,8246.09,Unidade Monte Alegre,4854.86,3391.2300000000005,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0274082,Máquinas e Equipamentos,2015-11-23,584805.99,Unidade Puma,295485.13,289320.86,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0274732,Equipamentos Florestais,2020-06-12,185955.69,Unidade Monte Alegre,103249.32,82706.37,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0277103,Máquinas e Equipamentos,2017-11-16,6075.13,Unidade Correia Pinto,2467.48,3607.65,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0277299,Florestas Plantadas,2023-08-01,252971.27,Unidade Correia Pinto,85618.91,167352.36,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0277943,Edificações e Benfeitorias,2021-03-27,5740.36,Sede SP,1093.85,4646.51,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0279076,Florestas Plantadas,2015-07-12,43903.4,Sede SP,43903.4,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0280624,Máquinas e Equipamentos,2016-03-17,16316.22,Unidade Puma,7987.24,8328.98,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0281300,Veículos,2022-03-04,88905.81,Sede SP,68057.67,20848.14,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0281510,Florestas Plantadas,2016-04-14,268829.57,Sede SP,268829.57,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0281892,Máquinas e Equipamentos,2020-11-18,17301.88,Unidade Puma,4426.72,12875.16,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0283384,Equipamentos Florestais,2020-06-18,62165.47,Unidade Puma,34414.4,27751.07,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0283757,Máquinas e Equipamentos,2022-04-02,132382.33,Unidade Puma,24809.23,107573.1,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0286103,Máquinas e Equipamentos,2024-12-24,219433.34,Unidade Puma,11174.43,208258.91,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0286882,Florestas Plantadas,2023-07-08,15097.12,Unidade Correia Pinto,5248.55,9848.57,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0287639,Máquinas e Equipamentos,2017-09-22,57801.92,Unidade Monte Alegre,23912.03,33889.89,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0288430,Veículos,2020-09-20,20852.05,Unidade Monte Alegre,20852.05,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0288539,Máquinas e Equipamentos,2017-08-07,240118.66,Unidade Puma,100846.55,139272.11,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0289843,Máquinas e Equipamentos,2021-05-16,280590.11,Sede SP,64914.07,215676.04,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0291427,Florestas Plantadas,2022-07-16,47571.56,Sede SP,23047.95,24523.61,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0291713,Equipamentos Florestais,2019-03-10,67740.55,Unidade Monte Alegre,46143.32,21597.230000000003,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0292896,Máquinas e Equipamentos,2015-07-14,24360.7,Florestal PR,12748.93,11611.77,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0295483,Edificações e Benfeitorias,2016-06-23,32010.06,Florestal PR,12192.31,19817.75,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0297235,Máquinas e Equipamentos,2019-04-17,71141.45,Unidade Monte Alegre,23859.9,47281.55,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0297342,Edificações e Benfeitorias,2015-03-20,22192.61,Sede SP,9573.35,12619.26,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0299545,Máquinas e Equipamentos,2020-06-19,69156.94,Unidade Monte Alegre,19132.95,50023.990000000005,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0300199,Florestas Plantadas,2023-04-18,50525.89,Unidade Puma,19134.13,31391.76,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0300563,Máquinas e Equipamentos,2023-08-04,63416.8,Sede SP,7639.53,55777.27,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0301868,Florestas Plantadas,2025-08-19,45143.02,Unidade Monte Alegre,2318.64,42824.38,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0302026,Florestas Plantadas,2022-04-07,62034.35,Florestal PR,32432.8,29601.55,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0302135,Máquinas e Equipamentos,2024-08-19,18605.05,Unidade Puma,1270.9,17334.149999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0302324,Equipamentos Florestais,2023-08-20,58118.18,Unidade Puma,13747.87,44370.31,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0303001,Máquinas e Equipamentos,2020-01-09,116461.15,Unidade Correia Pinto,34802.83,81658.31999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0303159,Máquinas e Equipamentos,2018-02-03,51976.68,Sede SP,20548.75,31427.93,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0303300,Equipamentos Florestais,2022-01-11,10034.77,Florestal PR,3983.69,6051.08,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0307641,Máquinas e Equipamentos,2017-09-22,1985.38,Florestal PR,821.33,1164.0500000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0309626,Florestas Plantadas,2015-07-02,70298.04,Unidade Monte Alegre,70298.04,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0310321,Edificações e Benfeitorias,2019-04-23,1665.06,Unidade Puma,445.66,1219.4,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0310573,Máquinas e Equipamentos,2017-03-19,211481.36,Unidade Correia Pinto,92901.26,118580.1,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0313138,Máquinas e Equipamentos,2016-03-29,500963.4,Unidade Correia Pinto,244412.53,256550.87,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0314066,Máquinas e Equipamentos,2017-02-23,12243.55,Florestal PR,5418.67,6824.879999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0314143,Máquinas e Equipamentos,2019-11-18,105517.67,Unidade Correia Pinto,32283.64,73234.03,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0317703,Máquinas e Equipamentos,2017-04-23,205328.53,Unidade Monte Alegre,89214.61,116113.92,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0319384,Florestas Plantadas,2021-11-21,193897.7,Unidade Puma,111555.54,82342.16000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0319708,Máquinas e Equipamentos,2019-04-08,39865.58,Florestal PR,13419.5,26446.08,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0320958,Edificações e Benfeitorias,2020-02-20,197372.53,Florestal PR,46277.85,151094.68,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0321479,Florestas Plantadas,2016-03-25,354016.27,Florestal PR,354016.27,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0322039,Equipamentos Florestais,2025-10-11,359377.23,Sede SP,7969.76,351407.47,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0325004,Edificações e Benfeitorias,2023-04-24,17678.77,Sede SP,1901.22,15777.55,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0326147,Equipamentos Florestais,2015-11-27,29597.01,Unidade Puma,29597.01,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0327785,Máquinas e Equipamentos,2022-10-22,135072.57,Unidade Correia Pinto,21559.84,113512.73,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0327806,Equipamentos Florestais,2018-11-23,6306658.49,Unidade Puma,4480706.03,1825952.46,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0328706,Máquinas e Equipamentos,2019-06-28,46142.32,Florestal PR,15020.73,31121.59,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0329670,Florestas Plantadas,2024-06-09,53870.87,Florestal PR,11769.73,42101.14,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0329684,Florestas Plantadas,2017-04-16,47141.11,Unidade Puma,47141.11,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0331359,Edificações e Benfeitorias,2017-12-10,163468.69,Unidade Monte Alegre,52685.93,110782.76,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0331417,Edificações e Benfeitorias,2018-10-05,12579.39,Unidade Puma,3642.43,8936.96,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0331470,Máquinas e Equipamentos,2023-04-29,27802.66,Florestal PR,3718.44,24084.22,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0331498,Edificações e Benfeitorias,2024-01-21,242331.54,Sede SP,18842.48,223489.06,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0333186,Edificações e Benfeitorias,2016-02-22,14549.21,Florestal PR,5736.03,8813.18,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0333933,Florestas Plantadas,2024-12-30,19560.93,Florestal PR,2744.15,16816.78,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0334183,Florestas Plantadas,2017-09-07,71816.46,Unidade Puma,71816.46,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0335757,Máquinas e Equipamentos,2017-01-11,143951.62,Unidade Puma,64556.54,79395.07999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0337627,Máquinas e Equipamentos,2015-05-23,230141.3,Sede SP,122080.43,108060.87,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0338006,Edificações e Benfeitorias,2023-08-31,426100.18,Sede SP,39804.35,386295.83,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0344316,Máquinas e Equipamentos,2024-10-11,219721.86,Unidade Correia Pinto,13414.91,206306.95,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0344464,Edificações e Benfeitorias,2025-04-30,88111.36,Unidade Puma,2364.11,85747.25,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0344672,Florestas Plantadas,2024-01-25,7635.61,Unidade Correia Pinto,2066.27,5569.34,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0346029,Equipamentos Florestais,2019-02-25,86534.28,Unidade Monte Alegre,59253.18,27281.1,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0347660,Máquinas e Equipamentos,2020-10-27,10612.31,Unidade Monte Alegre,2747.14,7865.17,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0347778,Máquinas e Equipamentos,2021-08-20,124492.91,Unidade Monte Alegre,27165.19,97327.72,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0349365,Edificações e Benfeitorias,2020-03-11,70423.89,Unidade Monte Alegre,16358.01,54065.88,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0350204,Móveis e Utensílios,2016-02-24,239337.44,Unidade Puma,235766.22,3571.220000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0350324,Máquinas e Equipamentos,2016-02-11,166425.06,Sede SP,82267.06,84158.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0351943,Máquinas e Equipamentos,2020-05-09,315137.58,Unidade Puma,88954.65,226182.93,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0353392,Máquinas e Equipamentos,2023-10-23,3526.39,Florestal PR,386.19,3140.2,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0358609,Máquinas e Equipamentos,2018-04-12,10484.35,Unidade Puma,4047.35,6437.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0358892,Máquinas e Equipamentos,2020-04-26,68860.7,Sede SP,19560.02,49300.67999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0359373,Máquinas e Equipamentos,2023-02-08,61934.23,Unidade Correia Pinto,8961.6,52972.630000000005,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0360329,Máquinas e Equipamentos,2021-12-25,19235.15,Unidade Correia Pinto,3862.83,15372.320000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0360371,Florestas Plantadas,2018-02-27,41046.46,Sede SP,41046.46,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0363315,Móveis e Utensílios,2017-07-24,25526.31,Sede SP,21539.24,3987.07,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0363708,Edificações e Benfeitorias,2018-02-02,229501.15,Florestal PR,72610.96,156890.19,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0364843,Equipamentos Florestais,2020-08-12,132989.19,Unidade Puma,71619.37,61369.82000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0365401,Máquinas e Equipamentos,2021-11-15,16516.91,Unidade Monte Alegre,3407.39,13109.52,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0366678,Edificações e Benfeitorias,2015-09-12,90662.18,Sede SP,37362.0,53300.17999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0368292,Máquinas e Equipamentos,2016-02-19,46272.73,Sede SP,22822.81,23449.92,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0369614,Móveis e Utensílios,2023-06-21,3587.84,Unidade Monte Alegre,907.64,2680.2000000000003,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0371063,Máquinas e Equipamentos,2024-07-22,11629.64,Unidade Puma,838.99,10790.65,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0371769,Máquinas e Equipamentos,2016-09-26,193132.02,Unidade Monte Alegre,89440.88,103691.13999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0371962,Máquinas e Equipamentos,2021-06-08,9838.5,Unidade Monte Alegre,2245.14,7593.360000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0372420,Edificações e Benfeitorias,2025-12-09,23757.44,Sede SP,57.24,23700.2,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0376087,Máquinas e Equipamentos,2021-12-12,34581.27,Unidade Puma,7006.2,27575.07,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0376153,Florestas Plantadas,2020-06-21,35625.59,Unidade Correia Pinto,27569.96,8055.629999999997,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0379065,Máquinas e Equipamentos,2025-04-10,90252.49,Unidade Puma,3274.05,86978.44,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0381383,Edificações e Benfeitorias,2019-02-01,566459.58,Sede SP,156639.06,409820.52,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0382873,Edificações e Benfeitorias,2015-04-13,729.64,Unidade Monte Alegre,312.83,416.81,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0383665,Veículos,2020-05-28,687687.58,Unidade Monte Alegre,687687.58,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0386909,Edificações e Benfeitorias,2020-06-25,50393.02,Unidade Correia Pinto,11120.27,39272.75,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0388627,Máquinas e Equipamentos,2016-07-16,644687.88,Sede SP,304913.98,339773.9,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0390628,Edificações e Benfeitorias,2020-03-26,50125.59,Unidade Puma,11560.79,38564.8,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0393364,Edificações e Benfeitorias,2018-06-29,208567.63,Unidade Monte Alegre,62630.25,145937.38,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0393697,Máquinas e Equipamentos,2015-12-02,84894.31,Unidade Monte Alegre,42789.99,42104.32,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0394211,Máquinas e Equipamentos,2024-09-15,16964.44,Unidade Monte Alegre,1096.13,15868.309999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0394837,Edificações e Benfeitorias,2018-11-18,14742.86,Unidade Correia Pinto,4197.83,10545.03,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0394953,Máquinas e Equipamentos,2025-04-08,22129.03,Unidade Puma,808.82,21320.21,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0396793,Máquinas e Equipamentos,2018-01-16,27131.77,Sede SP,10793.28,16338.49,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0397129,Florestas Plantadas,2020-03-29,85721.46,Unidade Puma,69098.19,16623.270000000004,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0398334,Florestas Plantadas,2016-09-24,77174.76,Unidade Puma,77174.76,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0398467,Equipamentos Florestais,2023-10-07,15983.94,Sede SP,3570.95,12412.990000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0398807,Máquinas e Equipamentos,2025-11-30,635088.46,Florestal PR,2695.11,632393.35,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0403317,Edificações e Benfeitorias,2025-11-30,47253.44,Florestal PR,160.42,47093.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0405684,Florestas Plantadas,2018-08-01,78322.1,Unidade Puma,78322.1,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0406962,Máquinas e Equipamentos,2016-11-16,255273.18,Unidade Correia Pinto,116436.72,138836.46,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0409019,Máquinas e Equipamentos,2025-08-08,38374.77,Sede SP,761.72,37613.05,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0409712,Máquinas e Equipamentos,2025-01-03,93427.29,Florestal PR,4629.8,88797.48999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0412646,Máquinas e Equipamentos,2023-04-25,17674.58,Unidade Monte Alegre,2373.55,15301.030000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0414859,Florestas Plantadas,2015-10-31,1271.73,Florestal PR,1271.73,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0415209,Máquinas e Equipamentos,2022-10-29,119274.68,Unidade Correia Pinto,18923.94,100350.74,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0421011,Edificações e Benfeitorias,2015-07-27,97975.19,Unidade Monte Alegre,40880.0,57095.19,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0425103,Máquinas e Equipamentos,2024-01-20,15040.57,Sede SP,1463.91,13576.66,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0425248,Máquinas e Equipamentos,2024-11-28,145340.93,Unidade Correia Pinto,7918.64,137422.28999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0425587,Máquinas e Equipamentos,2025-02-19,83306.84,Sede SP,3592.29,79714.55,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0426593,Máquinas e Equipamentos,2015-07-12,85490.81,Unidade Puma,44764.18,40726.63,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0426619,Edificações e Benfeitorias,2023-10-04,5684.08,Unidade Monte Alegre,509.82,5174.26,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0426695,Edificações e Benfeitorias,2023-09-27,9868.45,Florestal PR,892.69,8975.76,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0427642,Móveis e Utensílios,2022-04-05,85886.18,Unidade Correia Pinto,32120.61,53765.56999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0428383,Florestas Plantadas,2016-01-23,14526.73,Sede SP,14526.73,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0428899,Máquinas e Equipamentos,2021-10-13,898903.98,Unidade Correia Pinto,189502.0,709401.98,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0429591,Máquinas e Equipamentos,2022-03-05,8115.07,Florestal PR,1551.92,6563.15,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0432838,Máquinas e Equipamentos,2020-01-23,61003.52,Unidade Monte Alegre,18113.16,42890.36,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0433403,Máquinas e Equipamentos,2021-03-20,43189.92,Unidade Puma,10328.92,32861.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0436435,Florestas Plantadas,2016-02-19,69845.66,Unidade Puma,69845.66,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0437020,Máquinas e Equipamentos,2021-11-03,17806.79,Unidade Puma,3702.74,14104.05,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0440458,Florestas Plantadas,2020-05-04,53758.63,Unidade Correia Pinto,42591.85,11166.78,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0443977,Florestas Plantadas,2019-03-18,32045.57,Sede SP,30461.94,1583.630000000001,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0444633,Edificações e Benfeitorias,2019-10-29,63367.61,Sede SP,15648.89,47718.72,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0445035,Máquinas e Equipamentos,2021-10-01,23315.38,Unidade Puma,4953.52,18361.86,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0449935,Edificações e Benfeitorias,2016-01-26,29552.41,Unidade Monte Alegre,11738.44,17813.97,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0452108,Edificações e Benfeitorias,2020-05-01,109781.35,Unidade Puma,24886.78,84894.57,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0452223,Equipamentos Florestais,2016-04-19,28240.85,Sede SP,27394.2,846.6499999999978,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0452570,Florestas Plantadas,2016-05-18,9010.23,Unidade Puma,9010.23,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0457138,Florestas Plantadas,2025-12-16,74844.39,Sede SP,430.32,74414.06999999999,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0457707,Florestas Plantadas,2019-04-22,84031.45,Unidade Correia Pinto,78751.45,5280.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0458444,Máquinas e Equipamentos,2018-10-24,19129.41,Unidade Puma,6874.02,12255.39,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0458997,Equipamentos Florestais,2015-05-27,213957.11,Unidade Correia Pinto,213957.11,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0459263,Florestas Plantadas,2018-08-05,75910.17,Florestal PR,75910.17,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0459579,Máquinas e Equipamentos,2016-07-02,42603.85,Unidade Puma,20231.73,22372.12,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0462705,Máquinas e Equipamentos,2023-01-10,107847.9,Sede SP,16033.24,91814.66,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0462971,Florestas Plantadas,2016-10-21,2990.2,Unidade Monte Alegre,2990.2,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0466475,Florestas Plantadas,2023-08-31,200322.01,Florestal PR,65496.11,134825.90000000002,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0467306,Máquinas e Equipamentos,2020-08-24,3224.59,Unidade Puma,862.98,2361.61,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0468109,Equipamentos Florestais,2016-06-01,43723.08,Florestal PR,41897.54,1825.5400000000009,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0468500,Máquinas e Equipamentos,2025-07-15,216124.01,Florestal PR,4999.99,211124.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0469404,Máquinas e Equipamentos,2024-07-16,19822.96,Florestal PR,1446.36,18376.6,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0470047,Máquinas e Equipamentos,2019-05-31,103117.53,Unidade Puma,33963.15,69154.38,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0470858,Florestas Plantadas,2025-08-01,11092.26,Unidade Correia Pinto,646.25,10446.01,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0472269,Máquinas e Equipamentos,2024-01-19,149459.76,Unidade Monte Alegre,14567.47,134892.29,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0472815,Máquinas e Equipamentos,2015-02-04,19505.27,Florestal PR,10635.11,8870.16,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0473099,Veículos,2019-12-31,398489.64,Unidade Correia Pinto,398489.64,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0473300,Móveis e Utensílios,2023-11-13,644244.96,Unidade Correia Pinto,137403.65,506841.31,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0478172,Florestas Plantadas,2022-06-22,1572924.97,Florestal PR,776536.15,796388.82,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0478870,Máquinas e Equipamentos,2019-06-23,5006.11,Unidade Correia Pinto,1633.07,3373.04,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0478989,Máquinas e Equipamentos,2021-09-20,479270.52,Unidade Correia Pinto,102546.18,376724.34,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0479107,Edificações e Benfeitorias,2022-12-24,86653.91,Sede SP,10467.27,76186.64,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0480139,Equipamentos Florestais,2016-04-29,202252.01,Florestal PR,195634.87,6617.140000000014,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0481636,Veículos,2016-09-13,51140.07,Unidade Monte Alegre,51140.07,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0482041,Máquinas e Equipamentos,2025-02-12,131327.99,Unidade Monte Alegre,5788.86,125539.13,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0482621,Máquinas e Equipamentos,2024-11-08,71842.34,Florestal PR,4110.9,67731.44,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0483117,Máquinas e Equipamentos,2018-09-28,26912.78,Unidade Monte Alegre,9766.7,17146.079999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0486030,Edificações e Benfeitorias,2024-08-11,37123.66,Unidade Correia Pinto,2061.24,35062.420000000006,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0489459,Máquinas e Equipamentos,2025-03-14,4157.71,Unidade Monte Alegre,166.19,3991.52,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0489784,Máquinas e Equipamentos,2022-11-12,35238.68,Sede SP,5523.38,29715.3,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0491217,Máquinas e Equipamentos,2018-06-16,25792.3,Unidade Puma,9727.28,16065.02,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0492766,Florestas Plantadas,2015-07-07,9794.05,Unidade Monte Alegre,9794.05,0.0,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0494604,Florestas Plantadas,2019-04-16,7028.23,Sede SP,6602.78,425.4499999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0494651,Florestas Plantadas,2022-11-19,686484.49,Florestal PR,299440.68,387043.81,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0495006,Móveis e Utensílios,2025-02-26,16566.7,Unidade Puma,1397.0,15169.7,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0496542,Florestas Plantadas,2024-04-16,19836.8,Sede SP,4744.54,15092.259999999998,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais
+KLB-0497956,Máquinas e Equipamentos,2018-03-02,74281.16,Unidade Correia Pinto,29092.18,45188.98,False,False,False,False,Amostragem aleatória simples da população residual,2026,Nenhuma das regras integrais

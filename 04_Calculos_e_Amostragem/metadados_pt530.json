@@ -1,0 +1,13 @@
+{
+  "arquivo": "base_imobilizado_klabin_2025.csv",
+  "sha256": "a1e2d32d314198c6bc8954c5885a641c161a4f79deec0e196eb7aa4ccdc6560e",
+  "linhas": 500015,
+  "ids_unicos": 500000,
+  "saldo_liquido": 54069914441.78,
+  "semente_amostra": 2026,
+  "amostra": 400,
+  "populacao_residual": 499920,
+  "excecoes_amostra": 0,
+  "limite_superior_aprox_95": 0.0075,
+  "advertencia": "Resultados restritos à base sintética. Não representam registros, controles ou distorções reais da Klabin S.A."
+}

@@ -1,0 +1,12 @@
+﻿Indicador,Resultado,Observação
+População total (registros),500015.0,Base sintética completa
+IDs únicos,500000.0,Num_Plaqueta
+Duplicados além da primeira ocorrência,15.0,15 registros adicionados pelo gerador
+Saldo líquido da população (R$),54069914441.780014,Não conciliado ao saldo real da Klabin
+Itens sinalizados em varredura integral,95.0,Inclui todas as linhas de grupos duplicados
+População residual,499920.0,Excluídos itens dirigidos
+Tamanho da amostra aleatória,400.0,Semente 2026
+Exceções na amostra aleatória,0.0,Regras definidas no script
+Taxa de exceção amostral,0.0,Exceções/amostra
+Limite superior aproximado 95%,0.0075,Regra de três quando zero exceções
+Cobertura monetária da amostra,0.00068724778305592,Valor amostrado/valor residual

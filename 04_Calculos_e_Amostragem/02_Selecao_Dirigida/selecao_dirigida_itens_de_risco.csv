@@ -1,0 +1,96 @@
+﻿Num_Plaqueta,Categoria,Data_Aquisicao,Valor_Aquisicao_BRL,Unidade_Negocio,Depreciacao_Acumulada_BRL,Valor_Liquido_Contabil_BRL,exc_negativo,exc_data_futura,exc_plaqueta_duplicada,exc_equacao
+KLB-0004123,Edificações e Benfeitorias,2026-08-15,17945.24,Unidade Correia Pinto,4272.47,13672.77,False,True,False,False
+KLB-0015947,Edificações e Benfeitorias,2019-12-14,714769.81,Unidade Correia Pinto,172914.61,-45200.5,True,False,False,True
+KLB-0020882,Máquinas e Equipamentos,2026-08-15,17956.47,Unidade Correia Pinto,7561.14,10395.330000000002,False,True,False,False
+KLB-0025577,Máquinas e Equipamentos,2026-08-15,172552.16,Florestal PR,28959.47,143592.69,False,True,False,False
+KLB-0055010,Máquinas e Equipamentos,2026-08-15,445557.91,Unidade Correia Pinto,244462.16,201095.75,False,True,False,False
+KLB-0057881,Florestas Plantadas,2024-01-09,10329.62,Florestal PR,2858.64,-45200.5,True,False,False,True
+KLB-0062360,Veículos,2018-01-29,168866.5,Florestal PR,168866.5,0.0,False,False,True,False
+KLB-0068481,Equipamentos Florestais,2026-08-15,49747.85,Sede SP,49747.85,0.0,False,True,False,False
+KLB-0072239,Máquinas e Equipamentos,2026-08-15,94406.02,Florestal PR,5944.8,88461.22,False,True,False,False
+KLB-0075061,Máquinas e Equipamentos,2026-08-15,55928.27,Unidade Puma,13428.91,42499.36,False,True,False,False
+KLB-0075925,Edificações e Benfeitorias,2021-12-12,31589.06,Florestal PR,5119.98,-45200.5,True,False,False,True
+KLB-0084120,Florestas Plantadas,2026-08-15,176433.35,Florestal PR,141813.29,34620.06,False,True,False,False
+KLB-0088601,Máquinas e Equipamentos,2026-08-15,111808.06,Sede SP,38861.15,72946.91,False,True,False,False
+KLB-0092079,Veículos,2021-08-04,6385.75,Florestal PR,5629.6,-45200.5,True,False,False,True
+KLB-0096807,Florestas Plantadas,2015-01-05,184097.32,Unidade Correia Pinto,184097.32,-45200.5,True,False,False,True
+KLB-0108473,Móveis e Utensílios,2026-08-15,111937.33,Unidade Correia Pinto,33680.8,78256.53,False,True,False,False
+KLB-0108962,Equipamentos Florestais,2026-08-15,5895.08,Florestal PR,2866.44,3028.64,False,True,False,False
+KLB-0118501,Edificações e Benfeitorias,2026-08-15,90286.23,Unidade Correia Pinto,11815.69,78470.54,False,True,False,False
+KLB-0119037,Florestas Plantadas,2020-05-25,80992.26,Sede SP,63516.56,-45200.5,True,False,False,True
+KLB-0124335,Máquinas e Equipamentos,2017-12-02,189026.45,Florestal PR,76360.99,112665.46,False,False,True,False
+KLB-0126251,Florestas Plantadas,2026-08-15,36106.05,Florestal PR,31567.71,4538.340000000004,False,True,False,False
+KLB-0128918,Máquinas e Equipamentos,2026-08-15,45196.8,Florestal PR,24643.24,20553.56,False,True,False,False
+KLB-0131977,Máquinas e Equipamentos,2020-09-28,65276.18,Unidade Correia Pinto,17156.78,-45200.5,True,False,False,True
+KLB-0135155,Edificações e Benfeitorias,2026-08-15,316437.36,Sede SP,84071.41,232365.95,False,True,False,False
+KLB-0135163,Máquinas e Equipamentos,2026-08-15,20797.89,Unidade Monte Alegre,1480.48,19317.41,False,True,False,False
+KLB-0137880,Edificações e Benfeitorias,2017-08-11,15939.46,Unidade Monte Alegre,5348.5,10590.96,False,False,True,False
+KLB-0142343,Edificações e Benfeitorias,2026-08-15,581553.52,Florestal PR,185715.0,395838.52,False,True,False,False
+KLB-0145574,Edificações e Benfeitorias,2026-08-15,79714.84,Unidade Puma,12073.44,67641.4,False,True,False,False
+KLB-0146288,Equipamentos Florestais,2021-05-29,182271.63,Unidade Puma,83687.75,-45200.5,True,False,False,True
+KLB-0160024,Máquinas e Equipamentos,2015-03-28,17934.18,Unidade Monte Alegre,9650.82,8283.36,False,False,True,False
+KLB-0163542,Máquinas e Equipamentos,2026-08-15,22648.36,Unidade Puma,1832.33,20816.03,False,True,False,False
+KLB-0169015,Florestas Plantadas,2025-07-26,35681.93,Unidade Monte Alegre,2160.94,33520.99,False,False,True,False
+KLB-0172822,Florestas Plantadas,2026-08-15,23477.56,Unidade Monte Alegre,23477.56,0.0,False,True,False,False
+KLB-0188802,Edificações e Benfeitorias,2026-08-15,234417.19,Sede SP,92034.02,142383.16999999998,False,True,False,False
+KLB-0189682,Máquinas e Equipamentos,2026-08-15,6630.55,Florestal PR,2251.94,4378.610000000001,False,True,False,False
+KLB-0196749,Máquinas e Equipamentos,2018-08-01,31438.82,Unidade Monte Alegre,11658.83,19779.99,False,False,True,False
+KLB-0200766,Florestas Plantadas,2025-06-19,447777.38,Sede SP,33468.37,-45200.5,True,False,False,True
+KLB-0218485,Máquinas e Equipamentos,2026-08-15,132301.04,Unidade Correia Pinto,53499.97,78801.07,False,True,False,False
+KLB-0231552,Móveis e Utensílios,2026-08-15,1833.2,Florestal PR,125.48,1707.72,False,True,False,False
+KLB-0233918,Florestas Plantadas,2026-08-15,67877.25,Unidade Correia Pinto,36372.17,31505.08,False,True,False,False
+KLB-0235018,Veículos,2021-12-20,39912.87,Unidade Puma,32170.7,-45200.5,True,False,False,True
+KLB-0235645,Florestas Plantadas,2026-08-15,99142.37,Unidade Puma,65096.03,34046.34,False,True,False,False
+KLB-0252650,Máquinas e Equipamentos,2026-08-15,27524.98,Florestal PR,3014.37,24510.61,False,True,False,False
+KLB-0264695,Máquinas e Equipamentos,2020-06-28,5430.54,Sede SP,1495.72,3934.82,False,False,True,False
+KLB-0266061,Máquinas e Equipamentos,2020-04-28,413901.63,Unidade Puma,117456.27,-45200.5,True,False,False,True
+KLB-0268578,Florestas Plantadas,2016-08-31,39513.82,Unidade Monte Alegre,39513.82,-45200.5,True,False,False,True
+KLB-0272050,Máquinas e Equipamentos,2025-05-15,247175.99,Unidade Puma,7782.41,-45200.5,True,False,False,True
+KLB-0273912,Máquinas e Equipamentos,2019-06-18,22580.92,Sede SP,7381.69,-45200.5,True,False,False,True
+KLB-0275306,Máquinas e Equipamentos,2016-05-21,391014.63,Unidade Monte Alegre,187933.25,203081.38,False,False,True,False
+KLB-0278579,Máquinas e Equipamentos,2026-08-15,51754.6,Sede SP,15905.42,35849.18,False,True,False,False
+KLB-0285647,Máquinas e Equipamentos,2019-04-07,608929.96,Unidade Monte Alegre,205060.6,-45200.5,True,False,False,True
+KLB-0287119,Máquinas e Equipamentos,2022-10-07,46255.39,Unidade Correia Pinto,7478.11,38777.28,False,False,True,False
+KLB-0292767,Máquinas e Equipamentos,2022-06-25,37773.95,Unidade Puma,6644.7,31129.25,False,False,True,False
+KLB-0293966,Edificações e Benfeitorias,2026-08-15,180292.63,Unidade Monte Alegre,74140.87,106151.76,False,True,False,False
+KLB-0305729,Máquinas e Equipamentos,2026-08-15,108042.11,Florestal PR,6980.95,101061.16,False,True,False,False
+KLB-0309973,Florestas Plantadas,2019-11-29,95194.07,Florestal PR,81148.87,-45200.5,True,False,False,True
+KLB-0346809,Veículos,2026-08-15,119965.37,Sede SP,99059.7,20905.67,False,True,False,False
+KLB-0348050,Máquinas e Equipamentos,2018-05-24,145316.82,Unidade Monte Alegre,55262.17,90054.65000000001,False,False,True,False
+KLB-0352324,Edificações e Benfeitorias,2017-06-05,6652.26,Unidade Correia Pinto,2280.98,-45200.5,True,False,False,True
+KLB-0359721,Veículos,2017-07-13,38018.54,Unidade Correia Pinto,38018.54,-45200.5,True,False,False,True
+KLB-0368189,Edificações e Benfeitorias,2022-03-19,502027.4,Unidade Monte Alegre,76036.02,425991.38,False,False,True,False
+KLB-0390510,Edificações e Benfeitorias,2026-08-15,13929.05,Unidade Correia Pinto,1552.88,12376.169999999998,False,True,False,False
+KLB-0390626,Móveis e Utensílios,2019-01-29,8708.88,Unidade Monte Alegre,6027.67,2681.209999999999,False,False,True,False
+KLB-0397164,Edificações e Benfeitorias,2022-03-04,62118.9,Sede SP,9510.44,-45200.5,True,False,False,True
+KLB-0397235,Máquinas e Equipamentos,2026-08-15,383051.98,Unidade Correia Pinto,197687.33,185364.65,False,True,False,False
+KLB-0403058,Florestas Plantadas,2021-03-26,14691.85,Sede SP,9804.22,-45200.5,True,False,False,True
+KLB-0407378,Máquinas e Equipamentos,2026-08-15,498036.36,Unidade Correia Pinto,136218.57,361817.79,False,True,False,False
+KLB-0408264,Máquinas e Equipamentos,2016-11-27,5624.78,Unidade Monte Alegre,2557.14,-45200.5,True,False,False,True
+KLB-0424547,Florestas Plantadas,2016-08-18,2118687.79,Unidade Monte Alegre,2118687.79,-45200.5,True,False,False,True
+KLB-0432623,Máquinas e Equipamentos,2026-08-15,6864.56,Unidade Monte Alegre,3433.69,3430.8700000000003,False,True,False,False
+KLB-0432646,Máquinas e Equipamentos,2015-12-25,135683.16,Unidade Correia Pinto,67962.31,-45200.5,True,False,False,True
+KLB-0439636,Florestas Plantadas,2017-01-24,71106.03,Unidade Monte Alegre,71106.03,0.0,False,False,True,False
+KLB-0459477,Equipamentos Florestais,2026-08-15,69256.89,Florestal PR,68375.18,881.7100000000064,False,True,False,False
+KLB-0467886,Florestas Plantadas,2026-08-15,772430.01,Florestal PR,502729.81,269700.2,False,True,False,False
+KLB-0471263,Edificações e Benfeitorias,2026-08-15,23850.7,Sede SP,6694.52,17156.18,False,True,False,False
+KLB-0481405,Florestas Plantadas,2026-08-15,49869.02,Florestal PR,4740.46,45128.56,False,True,False,False
+KLB-0481931,Florestas Plantadas,2022-07-27,68557.01,Florestal PR,32926.13,35630.88,False,False,True,False
+KLB-0482907,Veículos,2020-09-11,718469.24,Florestal PR,718469.24,-45200.5,True,False,False,True
+KLB-0484892,Máquinas e Equipamentos,2026-08-15,15395.3,Unidade Monte Alegre,7726.1,7669.199999999999,False,True,False,False
+KLB-0486465,Máquinas e Equipamentos,2019-11-25,460853.25,Florestal PR,140558.66,-45200.5,True,False,False,True
+KLB-0287119,Máquinas e Equipamentos,2022-10-07,46255.39,Unidade Correia Pinto,7478.11,38777.28,False,False,True,False
+KLB-0196749,Máquinas e Equipamentos,2018-08-01,31438.82,Unidade Monte Alegre,11658.83,19779.99,False,False,True,False
+KLB-0481931,Florestas Plantadas,2022-07-27,68557.01,Florestal PR,32926.13,35630.88,False,False,True,False
+KLB-0137880,Edificações e Benfeitorias,2017-08-11,15939.46,Unidade Monte Alegre,5348.5,10590.96,False,False,True,False
+KLB-0368189,Edificações e Benfeitorias,2022-03-19,502027.4,Unidade Monte Alegre,76036.02,425991.38,False,False,True,False
+KLB-0292767,Máquinas e Equipamentos,2022-06-25,37773.95,Unidade Puma,6644.7,31129.25,False,False,True,False
+KLB-0348050,Máquinas e Equipamentos,2018-05-24,145316.82,Unidade Monte Alegre,55262.17,90054.65000000001,False,False,True,False
+KLB-0264695,Máquinas e Equipamentos,2020-06-28,5430.54,Sede SP,1495.72,3934.82,False,False,True,False
+KLB-0062360,Veículos,2018-01-29,168866.5,Florestal PR,168866.5,0.0,False,False,True,False
+KLB-0124335,Máquinas e Equipamentos,2017-12-02,189026.45,Florestal PR,76360.99,112665.46,False,False,True,False
+KLB-0439636,Florestas Plantadas,2017-01-24,71106.03,Unidade Monte Alegre,71106.03,0.0,False,False,True,False
+KLB-0169015,Florestas Plantadas,2025-07-26,35681.93,Unidade Monte Alegre,2160.94,33520.99,False,False,True,False
+KLB-0160024,Máquinas e Equipamentos,2015-03-28,17934.18,Unidade Monte Alegre,9650.82,8283.36,False,False,True,False
+KLB-0275306,Máquinas e Equipamentos,2016-05-21,391014.63,Unidade Monte Alegre,187933.25,203081.38,False,False,True,False
+KLB-0390626,Móveis e Utensílios,2019-01-29,8708.88,Unidade Monte Alegre,6027.67,2681.209999999999,False,False,True,False

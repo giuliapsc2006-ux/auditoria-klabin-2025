@@ -1,0 +1,5 @@
+﻿Teste,Ocorrências,Valor_Liquido_Total,Interpretação,Classificação
+Valor líquido negativo,25,-1130012.5,"25 registros, R$ -45.200,50 cada",SD - varredura integral
+Data de aquisição após 31/12/2025,40,3012936.71,40 registros em 15/08/2026,SD - varredura integral
+Plaqueta em grupo duplicado,30,2032243.2200000002,30 linhas pertencentes a 15 pares,SD - varredura integral
+Equação VCL = aquisição - depreciação divergente,25,-1130012.5,Inclui os 25 valores negativos deliberadamente alterados,SD - varredura integral
